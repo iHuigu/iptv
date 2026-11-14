@@ -100,7 +100,7 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002071?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000009000000060000000000002065?virtualDomain=010.live_hls.zte.com
 
 # 卫视频道
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="地方频道",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
@@ -276,8 +276,8 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002854/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="其他频道",纪实科教
 http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/cetv1.png" group-title="教育频道",CETV-1 
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/cetv1.png" group-title="其他频道",CETV-1 
 http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/cetv2.png" group-title="教育频道",CETV-2
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/cetv2.png" group-title="其他频道",CETV-2
 http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
