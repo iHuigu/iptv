@@ -263,13 +263,6 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="ZJJLHD" tvg-name="之江纪录高清" tvg-logo="https://live.fanmingming.cn/tv/zjjl.png" group-title="地方频道",之江纪录高清
 http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-# 教育频道
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/cetv1.png" group-title="教育频道",CETV-1 
-http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/cetv2.png" group-title="教育频道",CETV-2
-http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
 # 其他频道
 #EXTINF:-1 tvg-id="法治天地 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="其他频道",法治天地
 http://124.90.44.40:6060/010/2/01000010000000060000000000002816/1000.m3u8?virtualDomain=010.live_hls.zte.com
@@ -282,3 +275,9 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002854/1000.m3u8?virtua
 
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="其他频道",纪实科教
 http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/cetv1.png" group-title="教育频道",CETV-1 
+http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/cetv2.png" group-title="教育频道",CETV-2
+http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
