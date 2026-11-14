@@ -271,16 +271,17 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 其他频道
-#EXTINF:-1 tvg-id="JYKT" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/jykt.png" group-title="其他频道",金鹰卡通
-http://124.90.44.40:6060/010/2/00000001000000060000000000000430/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="KKSE" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/kkse.png" group-title="其他频道",卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="其他频道",卡酷少儿
 http://124.90.44.40:6060/010/2/01000010000000060000000000002854/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="BJJSKJ" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/bjjskj.png" group-title="其他频道",纪实科教
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="其他频道",纪实科教
 http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="FZTD" tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/fztd.png" group-title="其他频道",法治天地
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="其他频道",金鹰卡通
+http://124.90.44.40:6060/010/2/00000001000000060000000000000430/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="法治天地 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="其他频道",法治天地
 http://124.90.44.40:6060/010/2/01000010000000060000000000002816/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 广播电台
