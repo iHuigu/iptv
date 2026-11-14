@@ -267,7 +267,7 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/cetv1.png" group-title="教育频道",CETV-1 
 http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/cetv4.png" group-title="教育频道",CETV-2
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/cetv2.png" group-title="教育频道",CETV-2
 http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 其他频道
