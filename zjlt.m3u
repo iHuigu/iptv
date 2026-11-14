@@ -55,50 +55,6 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/cctv17.png" group-title="央视频道",CCTV-17 农业农村
 http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-# 国际频道
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/cgtn.png" group-title="国际频道",CGTN
-http://124.90.44.40:6060/010/2/00000001000000060000000000000479/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="CGTNRussian" tvg-name="CGTNRussian" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="国际频道",CGTN 俄语
-http://124.90.44.40:6060/010/2/00000001000000060000000000000803/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="CGTNFrench" tvg-name="CGTNFrench" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="国际频道",CGTN 法语
-http://124.90.44.40:6060/010/2/00000001000000060000000000000801/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="CGTNSpanish" tvg-name="CGTNSpanish" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="国际频道",CGTN 西语
-http://124.90.44.40:6060/010/2/00000001000000060000000000000800/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="CGTNArabic" tvg-name="CGTNArabic" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="国际频道",CGTN 阿语
-http://124.90.44.40:6060/010/2/00000001000000060000000000000802/1000.m3u8?virtualDomain=010.live_hls.zte.com
-
-#卫视超清
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="卫视超清",北京卫视4K
-http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="卫视超清",广东卫视4K
-http://124.90.44.40:6060/010/2/01000010000000060000000000002877?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="卫视超清",深圳卫视4K
-http://124.90.44.40:6060/010/2/01000010000000060000000000002878?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.cn/tv/四川卫视4K.png" group-title="卫视超清",四川卫视4K
-http://124.90.44.40:6060/010/2/00000009000000060000000000002075?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/山东卫视4K.png" group-title="卫视超清",山东卫视4K
-http://124.90.44.40:6060/010/2/00000009000000060000000000002073?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.cn/tv/东方卫视4K.png" group-title="卫视超清",东方卫视4K
-http://124.90.44.40:6060/010/2/00000009000000060000000000002067?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视4K.png" group-title="卫视超清",湖南卫视4K
-http://124.90.44.40:6060/010/2/00000009000000060000000000002069?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视4K.png" group-title="卫视超清",江苏卫视4K
-http://124.90.44.40:6060/010/2/00000009000000060000000000002071?virtualDomain=010.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视4K.png" group-title="卫视超清",浙江卫视4K
-http://124.90.44.40:6060/010/2/00000009000000060000000000002065?virtualDomain=010.live_hls.zte.com
-
 # 卫视频道
 #EXTINF:-1 tvg-id="ZJWS" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com
@@ -195,6 +151,50 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000594/1000.m3u8?virtua
 
 #EXTINF:-1 tvg-id="JLWS" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://124.90.44.40:6060/010/2/20002000000000010000000002776032/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#卫视超清
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="卫视超清",北京卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="卫视超清",广东卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002877?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="卫视超清",深圳卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002878?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.cn/tv/四川卫视4K.png" group-title="卫视超清",四川卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002075?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/山东卫视4K.png" group-title="卫视超清",山东卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002073?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.cn/tv/东方卫视4K.png" group-title="卫视超清",东方卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002067?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视4K.png" group-title="卫视超清",湖南卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002069?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视4K.png" group-title="卫视超清",江苏卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002071?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视4K.png" group-title="卫视超清",浙江卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002065?virtualDomain=010.live_hls.zte.com
+
+# 国际频道
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/cgtn.png" group-title="国际频道",CGTN
+http://124.90.44.40:6060/010/2/00000001000000060000000000000479/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNRussian" tvg-name="CGTNRussian" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="国际频道",CGTN 俄语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000803/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNFrench" tvg-name="CGTNFrench" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="国际频道",CGTN 法语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000801/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNSpanish" tvg-name="CGTNSpanish" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="国际频道",CGTN 西语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000800/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNArabic" tvg-name="CGTNArabic" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="国际频道",CGTN 阿语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000802/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 其他频道
 #EXTINF:-1 tvg-id="法治天地 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="其他频道",法治天地
