@@ -284,26 +284,26 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/01000010000000060000000000002816/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 # 广播电台
-#EXTINF:-1 tvg-id="ZJZS" tvg-name="浙江之声" tvg-logo="https://live.fanmingming.cn/tv/zjzs.png" group-title="广播电台",浙江之声
+#EXTINF:-1 tvg-id="ZJZS" tvg-name="浙江之声" tvg-logo="https://live.fanmingming.cn/radio/浙江之声.png" group-title="广播电台",浙江之声
 http://124.90.44.40:6060/010/2/00000001000000060000000000000481/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="JJPD" tvg-name="经济频道" tvg-logo="https://live.fanmingming.cn/tv/jjpd.png" group-title="广播电台",经济频道
+#EXTINF:-1 tvg-id="浙江经济广播" tvg-name="浙江经济广播" tvg-logo="https://live.fanmingming.cn/radio/浙江经济广播.png" group-title="广播电台",浙江经济广播
 http://124.90.44.40:6060/010/2/00000001000000060000000000000483/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="YYTF" tvg-name="音乐调频" tvg-logo="https://live.fanmingming.cn/tv/yytf.png" group-title="广播电台",音乐调频
+#EXTINF:-1 tvg-id="YYTF" tvg-name="音乐调频" tvg-logo="https://live.fanmingming.cn/radio/yytf.png" group-title="广播电台",音乐调频
 http://124.90.44.40:6060/010/2/00000001000000060000000000000484/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="MSZX" tvg-name="民生资讯" tvg-logo="https://live.fanmingming.cn/tv/mszx.png" group-title="广播电台",民生资讯
+#EXTINF:-1 tvg-id="MSZX" tvg-name="民生资讯" tvg-logo="https://live.fanmingming.cn/radio/mszx.png" group-title="广播电台",民生资讯
 http://124.90.44.40:6060/010/2/00000001000000060000000000000488/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="JTZS" tvg-name="交通之声" tvg-logo="https://live.fanmingming.cn/tv/jtzs.png" group-title="广播电台",交通之声
+#EXTINF:-1 tvg-id="JTZS" tvg-name="交通之声" tvg-logo="https://live.fanmingming.cn/radio/jtzs.png" group-title="广播电台",交通之声
 http://124.90.44.40:6060/010/2/00000001000000060000000000000485/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="CSZS" tvg-name="城市之声" tvg-logo="https://live.fanmingming.cn/tv/cszs.png" group-title="广播电台",城市之声
+#EXTINF:-1 tvg-id="CSZS" tvg-name="城市之声" tvg-logo="https://live.fanmingming.cn/radio/cszs.png" group-title="广播电台",城市之声
 http://124.90.44.40:6060/010/2/00000001000000060000000000000487/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="LYZS" tvg-name="旅游之声" tvg-logo="https://live.fanmingming.cn/tv/lyzs.png" group-title="广播电台",旅游之声
+#EXTINF:-1 tvg-id="LYZS" tvg-name="旅游之声" tvg-logo="https://live.fanmingming.cn/radio/lyzs.png" group-title="广播电台",旅游之声
 http://124.90.44.40:6060/010/2/00000001000000060000000000000486/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="ZJXWGB" tvg-name="浙江新闻广播" tvg-logo="https://live.fanmingming.cn/tv/zjxwgb.png" group-title="广播电台",浙江新闻广播
+#EXTINF:-1 tvg-id="ZJXWGB" tvg-name="浙江新闻广播" tvg-logo="https://live.fanmingming.cn/radio/zjxwgb.png" group-title="广播电台",浙江新闻广播
 http://124.90.44.40:6060/010/2/00000001000000060000000000000482/1000.m3u8?virtualDomain=010.live_hls.zte.com
