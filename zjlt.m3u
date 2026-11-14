@@ -184,7 +184,7 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002065?virtualDomain=01
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际频道",CGTN
 http://124.90.44.40:6060/010/2/00000001000000060000000000000479/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="国际频道",CGTN 纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="国际频道",CGTN 纪录
 https://0472.org/hls/cgtnd.m3u8
 
 #EXTINF:-1 tvg-id="CGTNRussian" tvg-name="CGTNRussian" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="国际频道",CGTN 俄语
