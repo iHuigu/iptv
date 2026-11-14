@@ -1,7 +1,7 @@
 #EXTM3U
 
 # 央视频道
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="CCTV2HD" tvg-name="中央二套高清" tvg-logo="https://img.iptv2022.com/logo/cctv2.png" group-title="央视频道",CCTV-2 财经
