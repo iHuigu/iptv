@@ -200,10 +200,10 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
 
 # 其他
-#EXTINF:-1 tvg-id="FHZW tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="其他",凤凰中文
+#EXTINF:-1 tvg-id="FHZW tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/iHuigu/iptv/refs/heads/main/TV/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="其他",凤凰中文
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 
-#EXTINF:-1 tvg-id="FHZX" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="其他",凤凰资讯
+#EXTINF:-1 tvg-id="FHZX" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/iHuigu/iptv/refs/heads/main/TV/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="其他",凤凰资讯
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 
 #EXTINF:-1 tvg-id="JYKT" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通
