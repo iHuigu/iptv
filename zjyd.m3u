@@ -203,11 +203,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
 
 # 其他
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="其他",重温经典
-http://101.35.240.114:88/live.php?id=重温经典
-
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="其他",翡翠台
 http://101.35.240.114:88/live.php?id=翡翠台
+
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="其他",重温经典
+http://101.35.240.114:88/live.php?id=重温经典
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="其他",五星体育
 http://101.35.240.114:88/live.php?id=五星体育
